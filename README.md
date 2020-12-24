@@ -18,6 +18,6 @@ fn main() {
 
 ## Design principles
 
-* You can't code with a hungry sould
+* You can't code with a hungry soul
 * You code to make food, not to make shit
 * Don't make the world worse with your shit
